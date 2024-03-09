@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|c:\\users\\amr\\onedrive - faculty of engineering ain shams university\\projects - programming\\learning-dot-net\\studentssystem\\studentportal\\studentportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58096CB-072F-4FF6-8F78-10EB8C41237F}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T13:25:13.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentPortal\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:23:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T00:38:32.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T00:31:36.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:02:29.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:02:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T20:25:56.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Amr\\OneDrive - Faculty of Engineering Ain Shams University\\Projects - Programming\\Learning-dot-net\\StudentsSystem\\StudentPortal\\StudentPortal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPortal\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:24:57.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
